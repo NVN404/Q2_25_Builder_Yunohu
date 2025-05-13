@@ -4,8 +4,7 @@ anchor_version = "0.31.1"
 resolution = true
 skip-lint = false
 
-[programs.localnet]
-tickr = "AeXnytP4SKPSeUm176KHoLSV54AAn11iF8AaMctWrDPw"
+
 
 [registry]
 url = "https://api.apr.dev"
