@@ -10,7 +10,7 @@ pub use constants::*;
 pub use instructions::*;
 pub use state::*;
 
-declare_id!("AeXnytP4SKPSeUm176KHoLSV54AAn11iF8AaMctWrDPw");
+declare_id!("2FthqPAdr3DwQHH81T6P4cx5E15ynoipcmaZ8QBjoZ2i");
 
 #[program]
 pub mod tickr {
